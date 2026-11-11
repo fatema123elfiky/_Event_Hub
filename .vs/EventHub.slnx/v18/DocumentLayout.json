@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\models\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\models\\badge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\models\\badge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\configurations\\registerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\configurations\\registerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\configurations\\badgeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\configurations\\badgeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\configurations\\attendeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\configurations\\attendeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261002105456_selfrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventHub\\Migrations\\20261002105456_selfrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\migrations\\20261002104255_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\migrations\\20261002104255_manytomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\migrations\\20261002105645_selfrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\migrations\\20261002105645_selfrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\migrations\\20261001201142_attendeebadgerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\migrations\\20261001201142_attendeebadgerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\migrations\\20261001191751_initialcreatev3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\migrations\\20261001191751_initialcreatev3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\migrations\\20261001193258_organizehaveprofilerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\migrations\\20261001193258_organizehaveprofilerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\migrations\\20261001195056_organizerseventsrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\migrations\\20261001195056_organizerseventsrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\migrations\\20261001191255_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\migrations\\20261001191255_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\migrations\\20261001191034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\migrations\\20261001191034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|c:\\users\\fatma\\backend-vsc-2026\\projects\\eventhub\\eventhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49FEF39-C8B7-587D-33D8-F87FB4C95AF1}|EventHub\\EventHub.csproj|solutionrelative:eventhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 193,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Configurations\\RegisterConfiguration.cs",
+              "RelativeDocumentMoniker": "EventHub\\Configurations\\RegisterConfiguration.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Configurations\\RegisterConfiguration.cs",
+              "RelativeToolTip": "EventHub\\Configurations\\RegisterConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:33:03.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "EventHub\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Address.cs",
+              "RelativeToolTip": "EventHub\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T18:30:44.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Attendee.cs",
+              "RelativeDocumentMoniker": "EventHub\\Models\\Attendee.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Attendee.cs",
+              "RelativeToolTip": "EventHub\\Models\\Attendee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:50:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Badge.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Badge.cs",
+              "RelativeDocumentMoniker": "EventHub\\Models\\Badge.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Badge.cs",
+              "RelativeToolTip": "EventHub\\Models\\Badge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:50:43.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EventHub\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "EventHub\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:48:19.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventHub\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Event.cs",
+              "RelativeToolTip": "EventHub\\Models\\Event.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:50:22.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Organizer.cs",
+              "RelativeDocumentMoniker": "EventHub\\Models\\Organizer.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Organizer.cs",
+              "RelativeToolTip": "EventHub\\Models\\Organizer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:48:09.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "EventHub\\Models\\Profile.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Profile.cs",
+              "RelativeToolTip": "EventHub\\Models\\Profile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:49:52.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "EventHub\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Models\\Register.cs",
+              "RelativeToolTip": "EventHub\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:27:26.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Configurations\\EventConfiguration.cs",
+              "RelativeDocumentMoniker": "EventHub\\Configurations\\EventConfiguration.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Configurations\\EventConfiguration.cs",
+              "RelativeToolTip": "EventHub\\Configurations\\EventConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T18:35:12.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BadgeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Configurations\\BadgeConfiguration.cs",
+              "RelativeDocumentMoniker": "EventHub\\Configurations\\BadgeConfiguration.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Configurations\\BadgeConfiguration.cs",
+              "RelativeToolTip": "EventHub\\Configurations\\BadgeConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T18:37:43.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttendeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Configurations\\AttendeeConfiguration.cs",
+              "RelativeDocumentMoniker": "EventHub\\Configurations\\AttendeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Configurations\\AttendeeConfiguration.cs",
+              "RelativeToolTip": "EventHub\\Configurations\\AttendeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T18:37:29.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20261002105456_selfrelationship.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261002105456_selfrelationship.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261002105456_selfrelationship.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261002105456_selfrelationship.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261002105456_selfrelationship.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:54:56.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20261002105645_selfrelationship.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261002105645_selfrelationship.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261002105645_selfrelationship.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261002105645_selfrelationship.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261002105645_selfrelationship.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:56:45.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20261002104255_manytomany.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261002104255_manytomany.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261002104255_manytomany.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261002104255_manytomany.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261002104255_manytomany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:42:55.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EventHub\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "EventHub\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:40:55.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20261001201142_attendeeBadgeRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001201142_attendeeBadgeRelationship.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261001201142_attendeeBadgeRelationship.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001201142_attendeeBadgeRelationship.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261001201142_attendeeBadgeRelationship.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T20:11:43.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20261001191751_InitialCreatev3.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001191751_InitialCreatev3.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261001191751_InitialCreatev3.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001191751_InitialCreatev3.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261001191751_InitialCreatev3.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T19:17:52.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20261001193258_organizehaveprofilerelationship.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001193258_organizehaveprofilerelationship.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261001193258_organizehaveprofilerelationship.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001193258_organizehaveprofilerelationship.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261001193258_organizehaveprofilerelationship.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T19:32:58.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20261001195056_organizerseventsrelationship.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001195056_organizerseventsrelationship.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261001195056_organizerseventsrelationship.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001195056_organizerseventsrelationship.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261001195056_organizerseventsrelationship.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T19:50:56.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20261001191255_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001191255_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261001191255_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001191255_InitialCreate2.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261001191255_InitialCreate2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T19:12:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20261001191034_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001191034_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EventHub\\Migrations\\20261001191034_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Migrations\\20261001191034_InitialCreate.cs",
+              "RelativeToolTip": "EventHub\\Migrations\\20261001191034_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T19:10:34.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Program.cs",
+              "RelativeDocumentMoniker": "EventHub\\Program.cs",
+              "ToolTip": "C:\\Users\\fatma\\Backend-VSC-2026\\Projects\\EventHub\\EventHub\\Program.cs",
+              "RelativeToolTip": "EventHub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T17:33:42.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
